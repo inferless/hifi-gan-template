@@ -1,5 +1,5 @@
 INPUT_SCHEMA = {
-  "audiofile_name":
+  "audio_url":
     {
       "datatype": "BYTES",
       "shape": [ 1 ],
