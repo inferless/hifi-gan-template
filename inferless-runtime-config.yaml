@@ -9,7 +9,7 @@ build:
     - "gfortran"
   python_packages:
     - "torch==2.0.0"
-    - "numpy==1.23.0"
+    - "numpy==1.23.5"
     - "numba==0.60.0"
     - "librosa==0.9.1"
     - "scipy==1.14.1"
